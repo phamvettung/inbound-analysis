@@ -13,3 +13,14 @@ This project Inbound statistics in a video to estimate speed of parcels, as well
 - Parcels detection: https://app.roboflow.com/boxesonconveyor/parcel_detection-2dnvd/15
 - Sensor keypoints detection: https://app.roboflow.com/boxesonconveyor/sensor_keypoint-arspc/2
 
+## Models used
+- YOLO v8 large for video processing
+- YOLO v8 nano + CUDA 12.1 + RTX 4050 GPU for real-time processing
+- 
+## Requirements
+- python 3.12
+- ultralytics
+- pandas
+- numpy
+- opencv
+
