@@ -1,2 +1,10 @@
 # INBOUND ANALYSIS
 
+## Introduction
+This project Inbound statistics in a video to estimate speed of parcels, as well as weight conveyor speed and main conveyor speed. This project will detect parcels, sensor keypoint using YOLO 
+
+## Output Video
+<div align="center">
+    <img src="M005_output_videos/output_video.avi" alt="Real-Time MonoGS UniDepthV2 ROS 2" width="800"/>
+    <p>Real-Time MonoGS with UniDepthV2 for Depth and camera intrinsics with ROS 2</p>
+</div>
