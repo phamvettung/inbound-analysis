@@ -5,6 +5,6 @@ This project Inbound statistics in a video to estimate speed of parcels, as well
 
 ## Output Video
 <div align="center">
-    <img src="/INBOUND_ANALYSIS/M005_output_videos/output_0014.png.avi" width="1000" height="400" alt="Final Result"/>
-    <p>Real-Time MonoGS with UniDepthV2 for Depth and camera intrinsics with ROS 2</p>
+    <img src="/INBOUND_ANALYSIS/M005_output_videos/output_0014.png" width="960" height="540" alt="Final Result"/>
+    <p>A screenshot one of the output videos</p>
 </div>
