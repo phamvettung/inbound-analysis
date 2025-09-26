@@ -16,11 +16,13 @@ This project Inbound statistics in a video to estimate speed of parcels, as well
 ## Models used
 - YOLO v8 large for video processing
 - YOLO v8 nano + CUDA 12.1 + RTX 4050 GPU for real-time processing
-- 
+
 ## Requirements
 - python 3.12
 - ultralytics
 - pandas
 - numpy
 - opencv
+
+### Project is still being updated...
 
