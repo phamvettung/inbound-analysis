@@ -24,5 +24,3 @@ This project Inbound statistics in a video to estimate speed of parcels, as well
 - numpy
 - opencv
 
-### Project is still being updated...
-
