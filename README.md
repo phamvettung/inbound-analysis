@@ -1,7 +1,7 @@
 # INBOUND ANALYSIS
 
 ## Introduction
-This project Inbound statistics in a video to estimate speed of parcels, as well as weight conveyor speed and main conveyor speed. This project will detect parcels, sensor keypoint using YOLO. Tested on CUDA 12.1 using RTX 4050 GPU.
+This project Inbound statistics in a video to estimate speed of parcels, as well as weight conveyor speed and main conveyor speed. This project will detect parcels, sensor keypoint using YOLO.
 
 ## Output Video
 <div align="center">
