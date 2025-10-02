@@ -1,6 +1,6 @@
 # INBOUND ANALYSIS
 
-## Introduction
+## Overview
 This project Inbound statistics in a video to estimate speed of parcels, as well as weight conveyor speed and main conveyor speed. This project will detect parcels, sensor keypoint using YOLO.
 
 ## Output Video
